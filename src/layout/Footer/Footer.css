@@ -1,0 +1,19 @@
+.footer {
+  background-image: url("../../img/bg2.jpg");
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.imagemLogoFooter {
+  width: 100px;
+  }
+
+  .textoFooter{
+    font-family: 'Montserrat';
+    font-size: 0.7rem;
+    color: white;
+    padding-bottom: 10px;
+  }

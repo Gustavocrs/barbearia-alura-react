@@ -1,0 +1,109 @@
+*{
+  font-family: 'Montserrat', "Sans-serif";
+}
+
+.home{
+  height: auto;
+}
+
+.imagemFundo{
+  width: 100%;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;	
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 0.8em;
+  font-size: 0.9rem;
+}
+
+.principal strong {
+	font-weight: bold;
+  margin-left: 3px;
+}
+
+.principal em {
+	font-style: italic;
+}
+
+.utensilios {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.mapa {
+	padding: 3em 0;
+	background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.frameMapa{
+  border-radius: 10px;
+}
+
+.beneficios {
+	padding: 3em 0;
+	background: #888888;
+}
+
+.conteudo-beneficios {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.lista-beneficios {
+	width: 40%;
+	display: flex;
+  flex-direction: column;
+}
+
+.itens {
+	text-align: center;
+	line-height: 2.5;
+	margin: 0 100px;
+	font-size: 1.0em;
+	vertical-align: center;
+  list-style: none;
+  text-align: left;
+}
+
+.itens:hover {
+	font-weight: bold;
+  color: #fff;
+  transition: 500ms;
+  cursor: default;
+}
+
+.imagem-beneficios {
+	width: 35%;
+	opacity: 1;
+	transition: 400ms;
+	border-radius: 10px
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.3;
+}
