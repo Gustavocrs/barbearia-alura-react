@@ -5,7 +5,7 @@
 <h3>Descrição do projeto</h3>
 <p> Refatoração do projeto Barbearia Alura para React. </p>
 
-<h3>Acesse o projeto</h3><a href="XXXX">Clique Aqui</a> 
+<h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/barbearia-alura-react">Clique Aqui</a> 
 
 <div><p><h3>Linguagens</h3></p>
 
