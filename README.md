@@ -22,7 +22,3 @@
 <h3>Imagens do projeto</h3>
 <img alt="Imagem para desktop" src="./design/desktop-preview.jpg"/>
 <img alt="Imagem para mobile" src="./design/mobile-design.jpg"/>
-
-OU 
-
-<p> Em breve.. </p>
