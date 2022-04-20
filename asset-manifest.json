@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/barbearia-alura-react/static/css/main.709525ba.css",
-    "main.js": "/barbearia-alura-react/static/js/main.1c342892.js",
+    "main.css": "/barbearia-alura-react/static/css/main.4dfc647c.css",
+    "main.js": "/barbearia-alura-react/static/js/main.9d1724dd.js",
     "static/media/beneficios.jpg": "/barbearia-alura-react/static/media/beneficios.75bfa14e67f8eb6526d6.jpg",
     "static/media/utensilios.jpg": "/barbearia-alura-react/static/media/utensilios.028e33ec5293062072e7.jpg",
     "static/media/banner.jpg": "/barbearia-alura-react/static/media/banner.8e976cd98c7912739052.jpg",
+    "static/media/bg.jpg": "/barbearia-alura-react/static/media/bg.3c72ec13dd220eb4aabb.jpg",
     "static/media/cabelobarba.jpg": "/barbearia-alura-react/static/media/cabelobarba.7b1a256add39c8817807.jpg",
     "static/media/cabelo.jpg": "/barbearia-alura-react/static/media/cabelo.35dfd55525786e11fbc7.jpg",
     "static/media/barba.jpg": "/barbearia-alura-react/static/media/barba.cbb86618992f7bf26927.jpg",
     "static/media/bg2.jpg": "/barbearia-alura-react/static/media/bg2.6ccecc50285c1322dabd.jpg",
     "index.html": "/barbearia-alura-react/index.html",
-    "main.709525ba.css.map": "/barbearia-alura-react/static/css/main.709525ba.css.map",
-    "main.1c342892.js.map": "/barbearia-alura-react/static/js/main.1c342892.js.map"
+    "main.4dfc647c.css.map": "/barbearia-alura-react/static/css/main.4dfc647c.css.map",
+    "main.9d1724dd.js.map": "/barbearia-alura-react/static/js/main.9d1724dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.709525ba.css",
-    "static/js/main.1c342892.js"
+    "static/css/main.4dfc647c.css",
+    "static/js/main.9d1724dd.js"
   ]
 }
