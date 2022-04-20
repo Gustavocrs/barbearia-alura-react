@@ -5,7 +5,7 @@ import imagemCabeloBarba from '../img/cabelobarba.jpg'
 
 export default function Servicos() {
   return (
-    <section>
+    <section className='secProdutos'>
       	<ul className="produtos">
 				<li>
 					<h2>Cabelo</h2>

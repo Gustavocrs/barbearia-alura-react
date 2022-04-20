@@ -8,6 +8,15 @@
 
 .imagemFundo{
   width: 100%;
+	opacity: 80%;
+}
+.imagemFundo:hover{
+	opacity: 100%;
+	transition: 500ms;
+}
+.imagemFundo::after:hover{
+	opacity: 80%;
+	transition: 500ms;
 }
 
 .titulo-principal {

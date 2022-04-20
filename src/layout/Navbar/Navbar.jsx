@@ -1,3 +1,6 @@
+import {BiHome} from 'react-icons/bi'
+import {BsScissors, BsTelephoneOutbound} from 'react-icons/bs'
+
 import { Link } from "react-router-dom";
 import Logobarbearia from "../../img/logo-branco.png";
 import "./Navbar.css";
@@ -15,17 +18,17 @@ export default function Nav() {
       <ul className="lista">
         <li>
           <Link to="/" className="listaItem">
-            Home
+            <BiHome className='btMenu'/>
           </Link>
         </li>
         <li>
           <Link to="/servicos" className="listaItem">
-            Serviços
+            <BsScissors className='btMenu'/>
           </Link>
         </li>
         <li>
           <Link to="/contatos" className="listaItem">
-            Contatos
+            <BsTelephoneOutbound className='btMenu'/>
           </Link>
         </li>
       </ul>

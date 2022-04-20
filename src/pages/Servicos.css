@@ -1,10 +1,15 @@
+.secProdutos{
+	height: 100vh;
+	margin-top: 10px;
+}
 .produtos {
 	width: 940px;
 	margin: 0 auto;
 	padding: 50px 0;
   display: flex;
-  flex-direction: row;
-}
+  justify-content: flex-end;
+	flex-direction: row;
+	}
 
 .produtos li {
 	display: flex;

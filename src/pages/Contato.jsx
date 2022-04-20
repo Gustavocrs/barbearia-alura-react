@@ -1,7 +1,7 @@
 import "./Contato.css";
 export default function Contato() {
   return (
-    <>
+    <div className="contato">
       <div className="form">
         <section>
           <form>
@@ -50,8 +50,7 @@ export default function Contato() {
               </label>
             </fieldset>
           </form>
-        </section>
-        <section>
+
           <fieldset>
             <p className="titulo-contato">Como prefere o nosso contato?</p>
             <div className="radio">
@@ -87,6 +86,7 @@ export default function Contato() {
               </label>
             </div>
           </fieldset>
+
           <fieldset>
             <p className="titulo-contato">Qual horário prefere ser atendido?</p>
 
@@ -96,6 +96,7 @@ export default function Contato() {
               <option>Noite</option>
             </select>
           </fieldset>
+
           <fieldset>
             <label className="titulo-label">
               <input className="checkbox" type="checkbox" checked />
@@ -107,6 +108,7 @@ export default function Contato() {
           </fieldset>
         </section>
       </div>
+
       <div>
         <section className="sectionTabela">
           <p className="titulo-tabela">Horário de funcionamento</p>
@@ -138,6 +140,6 @@ export default function Contato() {
           </table>
         </section>
       </div>
-    </>
+    </div>
   );
 }

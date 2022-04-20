@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter basename="/barbearia-alura-react">
+    <BrowserRouter basename="/">
      <Navbar/>
         <Routes>
           <Route exact path="/" element={<Home />} />

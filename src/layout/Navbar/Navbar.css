@@ -1,45 +1,37 @@
 .imagemLogoNavbar {
   position: absolute;
   top: 0;
-  left: 200px;
+  left: 100px;
   width: 100px;
-  filter:drop-shadow(0 0 2px darkorange);
+  filter: drop-shadow(3px 3px 5px black);
 }
 
 .navbar {
-  background-image: url("../../img/bg2.jpg");
+  background: url("../../img/bg.jpg");
   display: flex;
+  width: 100%;
   height: 150px;
-  flex-direction: row;
   align-items: center;
   justify-content: flex-end;
 }
 
 .lista {
   display: flex;
+  justify-content: flex-end;
   flex-direction: row;
-  list-style: none;
-  align-self: center;
   margin-right: 100px;
 }
 
-.listaItem {
-  margin: 0 25px;
-  text-decoration: none;
+.btMenu {
+  margin: 0 20px;
   color: white;
-  text-transform: uppercase;
-  font-size: 1rem;
-  font-weight: 700;
-  font-family: "Montserrat";
-  padding: 10px 20px;
-  border-radius: 10px;
+  font-size: 5rem;
+  padding: 20px;
 }
 
-.listaItem:hover {
+.btMenu:hover {
+  color: black;
   background-color: darkorange;
-  color: #000;
-  font-weight: 800;
-  text-decoration: solid;
-  font-weight: bold;
+  border-radius: 5px;
   transition: 500ms;
 }
